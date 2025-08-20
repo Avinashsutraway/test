@@ -1,0 +1,81 @@
+.background{
+    background-color: pink;
+    width: 100%;
+    height: 50px;
+}
+.main{
+    display: flex;
+}
+.font1{
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.background1{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+.font2{
+    font-size: 17px;
+    color: white;
+    padding-top: 13px ;
+    padding-left: 40px;
+    display: flex;
+gap: 30px;
+}
+.gap1{
+padding-left: 600px;
+}
+.login{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid;
+    color: black;
+    width: 77px;
+    height:28px ;
+    padding-left: 12px;
+    padding-top: 6px;
+    margin-top: -6px;
+
+}
+.input{
+     font-size: 19px;
+     margin-top: 15px;
+     border:1px solid;
+     border-radius: 5px;
+}
+.back{
+    background-color: pink;
+    border: 1px solid;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    width: 89px;
+    height: 27px;
+    font-size: 19px;
+
+    
+}
+.display{
+    display: flex;
+}
+.back2{
+    display: flex;
+  gap: 35px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.back3{
+   
+    width: 97px;
+    height: 29px;
+    border: 0px solid;
+    border-radius: 5px;
+}
+.display3{
+    display: flex;
+    padding-top: 20px;
+
+
+}
